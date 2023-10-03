@@ -22,4 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-gottabackend/target
+gotta_backend/target
+gotta_backend/Cargo.lock
