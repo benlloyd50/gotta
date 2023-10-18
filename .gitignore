@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 gotta_backend/target
+
+# old version of the frontend that i didn't like but will keep to reference
+old_client/
